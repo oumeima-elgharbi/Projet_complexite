@@ -1,4 +1,4 @@
-# TP complexité
+# TPs complexité
 Travaux Pratiques de L2 Informatique, Université de Lille, Langage Python
 
 Auteurs : Houda TILEHGHOUATINE, Oumeima EL GHARBI.
